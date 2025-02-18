@@ -18,7 +18,7 @@ Student/Course App is a comprehensive system developed using the MERN stack to m
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/student-course-app.git
+   git clone https://github.com/Fatimahbintiyasin/Student-Course-App.git
    ```
 2. Install dependencies:
    ```sh
